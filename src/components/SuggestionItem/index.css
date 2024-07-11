@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+}
+.list {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #475569;
+  width: 200px;
+  margin-right: 20px;
+}
+.arrow {
+  width: 18px;
+  height: 18px;
+}
+.button {
+  outline: none;
+  cursor: pointer;
+  background-color: #ffffff;
+  border: none;
+}
